@@ -67,9 +67,9 @@ export default async function (eleventyConfig) {
       },
       metadata: {
          language: "en",
-         title: "ldstephens",
+         title: "ldstephens weblog",
          subtitle: "",
-         base: "https://ldstephens.net/",
+         base: "https://weblog.ldstephens.net/",
          author: {
             name: "Loren Stephens",
          },
