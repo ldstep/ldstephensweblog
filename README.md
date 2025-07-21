@@ -1,1 +1,1 @@
-ldstephens.net 11ty build
+weblog.ldstephens.net 11ty build
