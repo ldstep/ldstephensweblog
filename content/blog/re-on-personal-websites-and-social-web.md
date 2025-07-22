@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on September 23, 2024 by Loren
-
 In this blog post, [Manu reflects](https://manuelmoreale.com/on-personal-websites-and-social-web) on the divide between two groups regarding the future of being social on the web.
 
 > And in those posts, I’m starting to see a trend of some sort. People are apparently starting to split into two camps that follow two very different ideological approaches when it comes to being social on the web. And when I say “people” I mean tech people, those who care about this type of stuff.

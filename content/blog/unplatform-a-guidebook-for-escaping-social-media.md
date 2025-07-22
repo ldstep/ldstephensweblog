@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on February 2, 2025 by Loren
-
 [Unplatform](https://unplatform.fromthesuperhighway.com/)
 
 > Unplatform is an interactive guidebook, online library, and recommendations database intended to help you escape social media and join the indie web.

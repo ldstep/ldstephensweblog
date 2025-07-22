@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-May 4, 2025
-
 Starting our third backyard flock:
 
 - 3 [Lavender Orpington](https://www.getstronganimals.com/post/all-about-the-lavender-orpington-breed?srsltid=AfmBOooDF8AmJVNNVzXMNyG7uk8DD0IyyK1ppVhoDaRCR20ZkWOoXpln)

@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on February 26, 2025 by Loren
-
 [Hannah Ziegler](https://www.washingtonpost.com/technology/2025/02/25/chegg-google-ai-lawsuit/), The Washington Post
 
 > Online education company Chegg sues Google, says AI is killing business A new lawsuit against Google alleges that the search giant’s artificial intelligence summaries have hurt online education company Chegg’s traffic and revenue so much that the company may not survive in its current form.

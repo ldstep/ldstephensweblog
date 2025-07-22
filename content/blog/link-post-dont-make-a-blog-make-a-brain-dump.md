@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on February 2, 2025 by Loren
-
 [Bradley Taunt, btxx.org](https://btxx.org/posts/dump/#menu):
 
 > Another problem arises when you finally do convince someone to start “blogging” online; self-doubt.

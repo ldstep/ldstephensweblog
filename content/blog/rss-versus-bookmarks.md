@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on August 03, 2024 by Loren
-
 Coincidentally I read two blog posts about RSS within days of each other this week. Chris is emphasizing the benefits of RSS and encouraging folks to start using it while Jason has decided to stop using it. So I thought I would chime in.
 
 [Chris](https://thoughts.uncountable.uk/request-for-iphone-rss-help/)

@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on February 24, 2025 by Loren
-
 Finally, a day warm enough to get outside. It was all about reclaiming a bit of our property from the wild. First on the agenda was trimming back those scraggly dead tree branches along the driveway.
 
 But the challenge was the greenbrier. If you've ever dealt with this, you know what I’m talking about. Common greenbrier is native to the eastern US, and it's made itself at home in our woodlands. They form dense, almost impenetrable thickets that take over everything. They have seriously sharp prickles. I learned that lesson despite wearing gloves. It's like botanical barbed wire.

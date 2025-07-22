@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-April 16, 2025
-
 [Jack Baty](https://baty.net/journal/2025/04/04/today/)
 
 > I need to find a way for my brain to relax. I spend entire days with a dozen apps open, each with a dozen tabs open. I click rapidly between them looking for something to focus on. I never find anything.

@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on February 6, 2025 by Loren
-
 I’ve been using AI in two ways: for help with my writing and for figuring out how to do things.
 
 My writing skills aren’t that great. I know what I want to say and how I want to say it, but I struggle to put it into words. So, I use AI to proofread and improve the structure of what I’ve written.

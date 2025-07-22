@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-April 28, 2025
-
 [Patrick Rhone](https://www.patrickrhone.net/an-investment-in-your-health/)
 
 > But your body, once it’s done, it’s done.

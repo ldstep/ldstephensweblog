@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on March 22, 2025 by Loren
-
 Emily Peck,[ writing for Axios](https://www.axios.com/2025/03/21/social-security-lutnick-doge-checks): Seniors won't complain if they miss a Social Security check, Lutnick says
 
 > Commerce secretary Howard Lutnick suggested this week that only "fraudsters" would complain about missing a monthly [Social Security](https://www.axios.com/2025/03/20/doge-social-security-deposit-fraud) check, and that most people wouldn't mind if the government simply skipped a payment.[…] More than 70 million Americans get a Social Security benefit every month, and for many, those checks are their only income.[…] "Let's say Social Security didn't send out their checks this month. My mother-in-law, who's 94, she wouldn't call and complain," Lutnick — a billionaire former Wall Street CEO — [told](https://www.youtube.com/watch?v=182ckTL2KBA) the billionaire "All In" podcast host Chamath Palihapitiya.

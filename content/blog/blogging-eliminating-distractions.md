@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on August 17, 2024 by Loren
-
 This is Lionel "Ploum" Dricot [writing](https://manuelmoreale.com/pb-ploum) about his blog on [People and Blogs](https://peopleandblogs.com/)with Manu Moreale:
 
 > My blog is exactly where I want it to be. If I had to start again, I would simply do it like I did in 2022. I was quick to remove any form of comments from my blog and, later, any kind of statistics. As far as I know, I’m one of the few strong advocates for the complete removal of statistics/analytic/tracking tools. It’s not ethical to spy on users but it is also completely counterproductive. Statistics on websites are a brainworm. People are obsessed by it and it makes them write dumb stuff in order to increase a dumb counter. Getting rid of any audience-measuring tool is one of the best things I did in 2013.

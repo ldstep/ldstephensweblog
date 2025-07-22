@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-Posted on July 13, 2024 by Loren
-
 Steve at An Almost Anonymous Blog [writing about paywalls:](https://lwgrs.bearblog.dev/paywalls-pain-and-balance/)
 
 > I wrote to myself yesterday saying that I'm resigned to the fact that I'm not going to make "serious" money online. On one hand, it sucks to think that I have all these big plans for myself and realize that no, I'm not going to make a living out of this. On the other hand, it's freeing: I can write anything I want without worrying about the quality, or feel like I need to be a "content creator".

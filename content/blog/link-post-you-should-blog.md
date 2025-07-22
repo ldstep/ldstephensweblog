@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-April 26, 2025
-
 > Some advice if you’re starting a blog for the first time (or it’s been awhile):
 > 
 >  1. Share your thoughts on _whatever_. You’re a blogger, not an opinion columnist

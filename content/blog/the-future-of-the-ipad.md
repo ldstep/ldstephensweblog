@@ -7,8 +7,6 @@ tags:
 layout: layouts/post.njk
 ---
 
-April 21, 2025
-
 Some quick thoughts on the future of the iPad. Since the iPad launched in 2010, it's been the go-to device for kids. It's safe, simple, great for games, learning, and videos. These [iPad kids](https://www.parents.com/what-are-ipad-kids-8692488) have grown up with it as their first computer.
 
 It's [estimated](https://www.census.gov/library/stories/2023/04/tablets-more-common-in-households-with-children.html?utm_source=chatgpt.com) that a significant portion of iPad users are kids and families. Around 80% of U.S. households with children own tablets, including iPads. This high rate of ownership shows that tablets are popular among families with kids under 18.
