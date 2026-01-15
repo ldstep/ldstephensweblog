@@ -9,7 +9,7 @@ eleventyNavigation:
 
 # Colophon
 
-This blog is a static site built with [11ty](https://www.11ty.dev/), using [HTML and CSS](https://htmlforpeople.com/), and hosted on [Render](https://render.com). It automatically deploys whenever I commit changes to xmit.
+This blog is a static site built with [11ty](https://www.11ty.dev/), using [HTML and CSS](https://htmlforpeople.com/), and hosted on [Render](https://render.com). It automatically deploys whenever I commit changes to the [public GitHub repo](https://github.com/ldstep/ldstephensweblog).
 
 The domain is registered through [Hover](https://hover.com/).
 
