@@ -8,21 +8,21 @@
         Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono,
         Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 
-    --background-color: #282a36;
-    --text-color: #f8f8f2;
+    --background-color: #2e3440;
+    --text-color: #eceff4;
 
-    --link-color: #8be9fd;
-    --link-color-active: #8be9fd;
-    --link-color-visited: #8be9fd;
+    --link-color: #88c0d0;
+    --link-color-active: #88c0d0;
+    --link-color-visited: #88c0d0;
 
-    --heading-color: #bd93f9;
-    --accent-color: #ff79c6;
+    --heading-color: #81a1c1;
+    --accent-color: #b48ead;
 
-    --color-muted: #6272a4;
-    --color-border: #44475a;
+    --color-muted: #4c566a;
+    --color-border: #3b4252;
 
-    --code-background-color: #313244;
-    --code-color: #cdd6f4;
+    --code-background-color: #3b4252;
+    --code-color: #d8dee9;
 
     --syntax-tab-size: 2;
 }
@@ -71,7 +71,7 @@ b {
 time {
     font-family: var(--font-family-monospace);
     font-size: 0.9em;
-    color: #f1fa8c; /* Dracula yellow */
+    color: #ebcb8b; /* Nord yellow */
 }
 
 /* Headings */
@@ -157,7 +157,7 @@ footer {
    ========================= */
 .home-link,
 .home-link h1 {
-    color: #ff79c6; /* Dracula pink */
+    color: #b48ead; /* Nord purple */
 }
 
 .home-link {
@@ -211,12 +211,12 @@ iframe {
     content: "" counter(start-from, decimal-leading-zero) ". ";
     margin-left: -1.5rem;
     font-size: 0.8em;
-    color: #f1fa8c; /* Dracula yellow */
+    color: #ebcb8b; /* Nord yellow */
 }
 
 .postlist-date {
     font-size: 0.8em;
-    color: #f1fa8c; /* Dracula yellow */
+    color: #ebcb8b; /* Nord yellow */
 }
 
 .postlist-link {
@@ -242,7 +242,7 @@ ul.blog-posts li {
 
 ul.blog-posts li span {
     flex: 0 0 130px;
-    color: #f1fa8c; /* Dracula yellow */
+    color: #ebcb8b; /* Nord yellow */
 }
 
 ul.blog-posts li a:visited {
@@ -346,12 +346,12 @@ hr {
 }
 header a.home-link,
 header a.home-link:visited {
-    color: #ff79c6;
+    color: #b48ead;
 }
-/* Navigation links – Dracula green */
+/* Navigation links – Nord green */
 header .nav a,
 header .nav a:visited {
-    color: #50fa7b;
+    color: #a3be8c;
 }
 
 header .nav a:hover,
