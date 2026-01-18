@@ -15,4 +15,4 @@ The domain is registered through [Hover](https://hover.com/).
 
 When adding new posts, changing the design, or adding new features, that is done in [Zed](https://zed.dev).
 
-New posts are written in Markdown in [Drafts](https://getdrafts.com) and added to a new post in Zed.
+New posts are written in Markdown in [Drafts](https://getdrafts.com) / [iA Writer](https://ia.net/writer) and added to a new post in Zed.

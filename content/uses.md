@@ -28,7 +28,7 @@ _Apps:_
 -  To-Do: Things
 -  Cloud File Storage: iCloud
 -  Browser: Safari / Firefox
--  Text Editor: Drafts
+-  Text Editor: iA Writer / Drafts
 -  Code: GitHub
 -  Code Editor: Zed
 -  Journal: Drafts / Day One
@@ -57,7 +57,7 @@ _Apps:_
 -  Notes: Apple Notes
 -  To-Do: Things
 -  Browser: Safari
--  Text: Drafts
+-  Text: iA Writer / Drafts
 -  RSS Service: Feedbin
 -  RSS App: Reeder Classic
 -  Bookmarks: Goodlinks
